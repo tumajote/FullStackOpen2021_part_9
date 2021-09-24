@@ -1,0 +1,3 @@
+GET  http://localhost:3000/bmi
+    ?height=180
+    &weight=2kk
